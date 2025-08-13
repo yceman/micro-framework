@@ -1,0 +1,28 @@
+{
+  "name": "micro-framework",
+  "version": "1.0.0",
+  "description": "Microframework",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yceman/micro-framework.git"
+  },
+  "keywords": [
+    "microframework",
+    "js",
+    "ts"
+  ],
+  "author": "Marcos Morais",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yceman/micro-framework/issues"
+  },
+  "homepage": "https://github.com/yceman/micro-framework#readme",
+  "dependencies": {
+    "@luigi-project/client": "^2.23.1",
+    "@luigi-project/core": "^2.23.1"
+  }
+}
